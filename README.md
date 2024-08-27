@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreesairaghava&label=Profile%20views&color=0e75b6&style=flat" alt="sreesairaghava" /> </p>
 
-- iOS App Developer at [Paytm Insider](https://github.com/only-much-louder)
+- Memeber of Technical Staff (iOS) at [Salesforce](https://github.com/salesforce)
   
 - 🔭 Crafting `Paytm Insider iOS App`
 
